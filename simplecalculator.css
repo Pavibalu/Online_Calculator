@@ -1,0 +1,72 @@
+body{
+    background-color:cornflowerblue;
+    /*margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+    margin-right:20px;*/
+    
+   
+    width:2100px;
+    background-color:royalblue;
+    
+}
+
+.calci{
+    text-align:center;
+    
+    border-radius:5px ;
+    
+}
+
+#buttondesign{
+    
+    width:60px;
+    height:40px;
+    margin:4px;
+    padding:4px;
+    border:none;
+    background-color: beige;
+    border-radius: 10px;
+    
+}
+#allvalues{
+    width:220px;
+    height:50px;
+    margin:5px;
+    padding:2px;
+    border:none;
+    background-color: beige;
+    border-radius: 10px;
+    font-size:20px;
+}
+#buttondesign1{
+    
+    width:130px;
+    height:40px;
+    margin:4px;
+    padding:4px;
+    border:none;
+    background-color: beige;
+    border-radius: 10px; 
+}
+h1{
+margin:10px;
+padding-top:150px;
+padding-left:200px;
+color: rgb(253, 253, 9);
+text-transform:uppercase;
+text-shadow: turquoise;
+}
+#txt{
+/*text-shadow:3px 3px 0px rgb(212, 230, 214);*/
+text-decoration:underline;
+}
+#buttondesign:hover{
+    background-color: rgb(248, 217, 222);
+}
+#pavibalu{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size:20px;
+color:rgb(29, 7, 80);
+
+}
